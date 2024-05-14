@@ -18,7 +18,7 @@ Se enfoca en replicar la apariencia visual de Pinterest, ofreciendo una experien
 + **CSS3:** para el diseño y el estilo, incluyengo _flexbox_ para un diseño responsivo y efectos de _hover_.
 
 ### Vista del previa proyecto 
-
+![Demo](images/pinterest.jpg)
 
 
 ### Contacto 
